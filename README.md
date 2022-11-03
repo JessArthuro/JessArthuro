@@ -4,6 +4,8 @@ Soy desarrollador web frontend en React y JavaScript. Desarrollo sitios web adap
 
 ### :seedling: Algunos de mis proyectos:
 
+- [Olympia](https://github.com/JessArthuro/olympia) - Sitio web para descubrir hoteles y resorts para hospedarse
+
 ### :hammer_and_wrench: Tecnologías y herramientas que uso:
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
