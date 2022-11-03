@@ -4,7 +4,9 @@ Soy desarrollador web frontend en React y JavaScript. Desarrollo sitios web adap
 
 ### :seedling: Algunos de mis proyectos:
 
-- [Olympia](https://github.com/JessArthuro/olympia) - Sitio web para descubrir hoteles y resorts para hospedarse
+- [Olympia](https://github.com/JessArthuro/olympia) - Página web para descubrir hoteles y resorts para hospedarse.
+- [Medicom](https://github.com/JessArthuro/medicom) - Página web que muestra temas sobre servicios médicos en un hospital.
+- [Interio](https://github.com/JessArthuro/interio) - Página web sobre una empresa dedicada al diseño de interiores en viviendas.
 
 ### :hammer_and_wrench: Tecnologías y herramientas que uso:
 
@@ -27,7 +29,7 @@ Soy desarrollador web frontend en React y JavaScript. Desarrollo sitios web adap
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-## :mailbox: Como contactarme:
+### :mailbox: Como contactarme:
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://mx.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jessarturo97@gmail.com)
