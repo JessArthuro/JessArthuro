@@ -23,7 +23,7 @@ Soy desarrollador web frontend en React y JavaScript. Desarrollo sitios web adap
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-
+## :mailbox: Como contactarme:
 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
