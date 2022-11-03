@@ -7,6 +7,7 @@ Soy desarrollador web frontend en React y JavaScript. Desarrollo sitios web adap
 - [Olympia](https://github.com/JessArthuro/olympia) - Página web para descubrir hoteles y resorts para hospedarse.
 - [Medicom](https://github.com/JessArthuro/medicom) - Página web que muestra temas sobre servicios médicos en un hospital.
 - [Interio](https://github.com/JessArthuro/interio) - Página web sobre una empresa dedicada al diseño de interiores en viviendas.
+- [TODOApp](https://github.com/JessArthuro/todo-app) - Aplicación para crear TODOs, márcalos como completado y eliminarlos.
 
 ### :hammer_and_wrench: Tecnologías y herramientas que uso:
 
