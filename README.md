@@ -1,8 +1,10 @@
-# Hola, Soy Jesús Arturo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hola, Soy Jesús Arturo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Soy desarrollador web frontend en React y JavaScript. Desarrollo sitios web adaptables a cualquier tamaño de pantalla, con diseños intuitivos y atractivos. También soy Ingeniero en Sistemas Computacionales.
 
-## :hammer_and_wrench: Tecnologías y herramientas que uso:
+### :seedling: Algunos de mis proyectos:
+
+### :hammer_and_wrench: Tecnologías y herramientas que uso:
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
