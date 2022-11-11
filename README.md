@@ -32,6 +32,6 @@ Soy desarrollador web frontend en React y JavaScript. Desarrollo sitios web adap
 
 ### :mailbox: Como contactarme:
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://mx.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jessarturo97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsarturo-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jsarturo.dev@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JessArthuro)
