@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Jesús Arturo – a Web Developer and Systems Engineer</p>
+<p align="left">I'm Arturo Carmona – a Web Developer and Systems Engineer</p>
 
 ###
 
